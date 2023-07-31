@@ -5,9 +5,15 @@ from ultralytics import YOLO
 import streamlit as st
 import cv2
 import pafy
+import PIL
 
 import settings
 
+def add_logo(logo_path, width, height):
+    """Read and return a resized logo"""
+    logo = PIL.Image.open(logo_path)
+    modified_logo = logo.resize((width, height))
+    return modified_logo
 
 def load_model(model_path):
     """
