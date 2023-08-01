@@ -27,13 +27,13 @@ pip install ultralytics streamlit pafy
 - Directorio TrainerNotebook: Archivo Proyecto.ipynb con código de entrenamiento y validación utilizado en Google Colab.
 - Directorio Arquitecture: Esquemas de arquitectura del sistema.
 - Directorio yolov8-streamlit-detection-tracking-master:
-    app.py: Aplicación principal para ejecución.
-    config.toml: Archivo de tema (Dark).
-    exec.ipynb: Notebook para ejecución.
-    helper.py: Librerías auxiliares.
-    settings.py: Configuraciones.
-    Directorio assets: Archivos requeridos por el frontend.
-    Directorio images: Imágenes requeridas por el frontend.
+- app.py: Aplicación principal para ejecución.
+- config.toml: Archivo de tema (Dark).
+- exec.ipynb: Notebook para ejecución.
+- helper.py: Librerías auxiliares.
+- settings.py: Configuraciones.
+- Directorio assets: Archivos requeridos por el frontend.
+- Directorio images: Imágenes requeridas por el frontend.
 
 ## Instalación
 
