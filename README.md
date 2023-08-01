@@ -27,6 +27,7 @@ pip install ultralytics streamlit pafy
 - Crear directorios `weights`, `videos` e `images` dentro del proyecto.
 - Descargue los pesos YOLOv8 preentrenados desde (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) y guárdelos en el directorio `weights` en el mismo proyecto.
 - Descargue los pesos best700 preentrenados desde (<https://drive.google.com/file/d/1a-GQIM1YYebr040aMaMtXOc6fvbNXaVw/view?usp=drive_link>) y guárdelos en el directorio `weights` en el mismo proyecto.
+- Descargue los datasets desde (https://universe.roboflow.com/mcd-fz7gc/gundetectionmcd)
 
 
 ## Uso
